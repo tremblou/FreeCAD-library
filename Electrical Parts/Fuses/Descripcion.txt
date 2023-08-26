@@ -1,0 +1,2 @@
+fus5x20: copy from Electronic parts
+fusClassCC: from dimensions provided in Ferraz ATDR datasheet
